@@ -3,6 +3,7 @@ let x = prompt();
 let x1 = 2*x;
 
 let y = prompt();
+let y = Number(y);
 let z = x1 + y;
 alert("The final result is:" + z);
 
