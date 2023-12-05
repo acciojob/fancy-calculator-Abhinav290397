@@ -4,7 +4,7 @@ let x1 = 2*x;
 
 let y = Number(prompt());
 let z = x1 + y;
-alert("The final result is:" + z);
+alert("The final result is: " + z);
 
 
 
